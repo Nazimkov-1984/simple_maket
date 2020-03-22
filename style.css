@@ -1,0 +1,34 @@
+a{
+    text-decoration: none;
+}
+.main-part {
+    font-size: 18px;
+}
+
+.main-heading {
+    text-align: center;
+    background-color: #a52a2a;
+    color: white;
+}
+.header-img {
+    height: 221px;
+    background: url('img/sunset.jpg') no-repeat 50% 50%;
+    background-size: cover;
+}
+.five-img{
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+}
+.five-img img {
+    box-sizing: border-box;
+    border-color: black;
+    border: dashed 2px ;  
+}
+.footer-text {
+    margin-top: 40px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
